@@ -56,13 +56,4 @@ class DefaultFirebaseOptions {
     projectId: 'social-media-ujai',
     storageBucket: 'social-media-ujai.appspot.com',
   );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA1lbCCB2SC2OLZ9nytNsMRPEVAsGmFmEc',
-    appId: '1:696123326441:ios:e632d78f63a409ac455578',
-    messagingSenderId: '696123326441',
-    projectId: 'social-media-ujai',
-    storageBucket: 'social-media-ujai.appspot.com',
-    iosBundleId: 'com.example.socialMediaApp',
-  );
 }
