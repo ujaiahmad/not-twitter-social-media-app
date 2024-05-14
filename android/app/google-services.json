@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696123326441",
+    "project_id": "social-media-ujai",
+    "storage_bucket": "social-media-ujai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696123326441:android:29d162a9097d2c1f455578",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAry8pQx7QLtj2czamV-LuEnMmAau60WAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
